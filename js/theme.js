@@ -181,8 +181,8 @@
         if(pSlider.length) {
             pSlider.owlCarousel({
               loop:true,
-              nav:false,
-              dots:false,
+              nav:true,
+              dots:true,
               autoplay:true,
               margin:30,
               autoplayTimeout:4000,
