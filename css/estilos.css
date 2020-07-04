@@ -372,6 +372,12 @@ html{
     .contact-us-one form{
         margin-bottom: 15px;
     }
+    .banner .inner-wrapper{
+        padding: 3rem !important;
+    }
+    .img-box img{
+        border-radius: 0 44px 0 0;
+    }
 }
 @media (max-width:1200px){
     .theme-banner-one .main-text-wrapper p{
